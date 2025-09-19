@@ -63,7 +63,7 @@ const togglemode = (cls) => {
     <Router>
 
       <Navbar
-        titlex={"NeonText"}
+        titlex={"Nova Text"}
         abouttext="About"
         dropdown="List"
         mode={mode}
